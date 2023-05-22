@@ -1,0 +1,1 @@
+Esse é um repositório de Exercícios da Apostila de Exercícios Lógica de Programação e Algoritmos Faccat feitos em Java durante meu período de estudo no segundo semestre da Faculdade.
