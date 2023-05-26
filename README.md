@@ -1,4 +1,4 @@
-# QualityAssurance
+# Quality-Assurance
 Repositório de exercícios e projetos feitos na matéria de Quality Assurance durante o período de estudo da faculdade.
 
 # exerciciosFaccat
